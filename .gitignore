@@ -14,6 +14,3 @@ ENV/
 .DS_Store
 Thumbs.db
 *.tmp
-
-# Archive of original legacy files (optional - comment out if you want to keep them local only)
-archive/legacy_reference/
